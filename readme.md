@@ -6,6 +6,8 @@
 The apps main purpose is to keep track on how many calories you consume through moving and exercicing and then give you a example output of recomended recepies for you to cook and to be able to keep your shape or loose weight. 
 This project is at an ongoing state and functionalities will be added with time. 
 
+First time to ever touch Swift and it feels like a steep learning curve compared to what I have previously done.
+
 ### App in its Current state and its Libraries:
 
 * App made in Swift
