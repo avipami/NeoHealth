@@ -57,4 +57,4 @@ A connection to the IOS HealthKit Api this application can gather live data from
 
 ## Interested in getting in touch ? 
 
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
+<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/>
