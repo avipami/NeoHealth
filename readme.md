@@ -3,7 +3,7 @@
 
 ## NHealth is all about moving to smart info
 
-The apps main purpose is to keep track on how many calories you consume through moving and exercicing and then give you a example output of recomended recepies for you to cook and to be able to keep your shape or loose weight. 
+The apps main purpose is to keep track on how many calories you consume through moving and exercising and then give you a example output of recomended recipes for you to cook and to be able to keep your shape or loose weight. 
 This project is at an ongoing state and functionalities will be added with time. 
 
 First time to ever touch Swift and it feels like a steep learning curve compared to what I have previously done.
@@ -15,6 +15,8 @@ First time to ever touch Swift and it feels like a steep learning curve compared
 * Healthkit data access
 * App layout written in SwiftUI
 * Connection to recepie DB for fetching weekly recepies at a young implementation
+
+![App](https://github.com/avipami/NeoHealth/blob/main/Images%20Readme/Screenshot%202022-01-01%20at%2016.16.05.png)
 
 ## Further plans on implementations
 
